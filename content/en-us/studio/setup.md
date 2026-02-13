@@ -1,7 +1,5 @@
----
-title: Roblox Studio setup
-description: Explains how to install Roblox Studio on your system.
----
+Dodge the meteor for brainrots 
+We take brainrots and we dodge meteors two successful take the brainrot and make it official yours
 
 import StudioSystemReqs from '../includes/studio/system-reqs.md'
 
